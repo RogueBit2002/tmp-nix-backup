@@ -1,0 +1,3 @@
+{
+	fqdn = "workstation.crowsnest.local";
+}
